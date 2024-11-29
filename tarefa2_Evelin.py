@@ -6,3 +6,4 @@ def main():
     print("Eu moro em Lisboa.")
 cidade = input("Qual é a sua cidade? ")
     print(f"Que legal! Você mora em {cidade}.")
+    print("Eu acho a aula bem interessante!")
